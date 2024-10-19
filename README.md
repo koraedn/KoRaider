@@ -18,7 +18,7 @@ KoRaider is a tool developed for automating several Discord actions, such as sen
 
 ## Screenshot
 
-![ss](https://github.com/koraedn/KoRaider/blob/main/ss.png)
+![ss](https://github.com/koraedn/KoRaider/blob/main/ss.gif)
 ## Disclaimer
 
 KoRaider is for **educational purposes** only. Misuse of this tool can violate Discord's terms of service, and you risk losing access to your account.
